@@ -1,0 +1,23 @@
+{
+  "name": "@hipstersmoothie/auto-single-gpr",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": "hipstersmoothie/auto-single-gpr",
+  "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "scripts": {
+    "release": "auto shipit -v"
+  },
+  "devDependencies": {
+    "@auto-canary/all-contributors": "9.48.2-canary.1412.17656.0",
+    "@auto-canary/conventional-commits": "9.48.2-canary.1412.17656.0",
+    "@auto-canary/first-time-contributor": "9.48.2-canary.1412.17656.0",
+    "@auto-canary/npm": "9.48.2-canary.1412.17656.0",
+    "@auto-canary/released": "9.48.2-canary.1412.17656.0",
+    "@auto-canary/auto": "9.48.2-canary.1412.17656.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
