@@ -1,6 +1,6 @@
 {
   "name": "@hipstersmoothie/auto-single-gpr",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "main": "src/index.js",
   "license": "MIT",
   "repository": "hipstersmoothie/auto-single-gpr",
