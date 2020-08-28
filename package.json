@@ -6,16 +6,16 @@
   "repository": "hipstersmoothie/auto-single-gpr",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "scripts": {
-    "release": "auto shipit"
+    "release": "auto shipit -v"
   },
   "devDependencies": {
-    "@auto-canary/all-contributors": "9.52.1-canary.1500.18497.0",
-    "@auto-canary/conventional-commits": "9.52.1-canary.1500.18497.0",
-    "@auto-canary/first-time-contributor": "9.52.1-canary.1500.18497.0",
-    "@auto-canary/gh-action-toggle-peer-review": "9.52.1-canary.1500.18497.0",
-    "@auto-canary/npm": "9.52.1-canary.1500.18497.0",
-    "@auto-canary/released": "9.52.1-canary.1500.18497.0",
-    "@auto-canary/auto": "9.52.1-canary.1500.18497.0"
+    "@auto-canary/all-contributors": "9.52.1-canary.1500.18505.0",
+    "@auto-canary/conventional-commits": "9.52.1-canary.1500.18505.0",
+    "@auto-canary/first-time-contributor": "9.52.1-canary.1500.18505.0",
+    "@auto-canary/gh-action-toggle-peer-review": "9.52.1-canary.1500.18505.0",
+    "@auto-canary/npm": "9.52.1-canary.1500.18505.0",
+    "@auto-canary/released": "9.52.1-canary.1500.18505.0",
+    "@auto-canary/auto": "9.52.1-canary.1500.18505.0"
   },
   "publishConfig": {
     "access": "public",
