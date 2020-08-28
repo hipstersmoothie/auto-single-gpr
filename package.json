@@ -9,12 +9,13 @@
     "release": "auto shipit -v"
   },
   "devDependencies": {
-    "@auto-canary/all-contributors": "9.48.2-canary.1412.17656.0",
-    "@auto-canary/conventional-commits": "9.48.2-canary.1412.17656.0",
-    "@auto-canary/first-time-contributor": "9.48.2-canary.1412.17656.0",
-    "@auto-canary/npm": "9.48.2-canary.1412.17656.0",
-    "@auto-canary/released": "9.48.2-canary.1412.17656.0",
-    "@auto-canary/auto": "9.48.2-canary.1412.17656.0"
+    "@auto-canary/all-contributors": "9.52.1-canary.1500.18487.0",
+    "@auto-canary/conventional-commits": "9.52.1-canary.1500.18487.0",
+    "@auto-canary/first-time-contributor": "9.52.1-canary.1500.18487.0",
+    "@auto-canary/gh-action-toggle-peer-review": "9.52.1-canary.1500.18487.0",
+    "@auto-canary/npm": "9.52.1-canary.1500.18487.0",
+    "@auto-canary/released": "9.52.1-canary.1500.18487.0",
+    "@auto-canary/auto": "9.52.1-canary.1500.18487.0"
   },
   "publishConfig": {
     "access": "public",
