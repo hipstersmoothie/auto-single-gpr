@@ -1,2 +1,2 @@
-# auto github package registry monorepo testttt
+# auto github package registry monorepo test
 
