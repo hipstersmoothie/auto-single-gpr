@@ -1,3 +1,19 @@
+# v1.0.10 (Sat Aug 29 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### ⚠️ Pushed to `master`
+
+- testing ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v1.0.3 (Fri Aug 28 2020)
 
 :tada: This release contains work from a new contributor! :tada:
